@@ -25,7 +25,12 @@ Die Installation des FHIR-Servers ist optional. Es stehen alternativ Repositorie
 
 #### Data Curation Tool
 FHIR-Repositories zur Auswahl:
-(todo)
+- Student 01: http://nisa3zjndxmyk33y.myfritz.net:8201/fhir/metadata
+- Student 02: http://nisa3zjndxmyk33y.myfritz.net:8202/fhir/metadata
+- Student 03: http://nisa3zjndxmyk33y.myfritz.net:8203/fhir/metadata
+- Student 04: http://nisa3zjndxmyk33y.myfritz.net:8204/fhir/metadata
+- Student 05: http://nisa3zjndxmyk33y.myfritz.net:8205/fhir/metadata
+- Student 06: http://nisa3zjndxmyk33y.myfritz.net:8206/fhir/metadata
 
 Terminologiedienst (optional): https://health-digital-term.ari-health.eu
 
