@@ -56,3 +56,17 @@ Beispieldatensätze (müssen zuvor in ein FHIR-Repository geladen werden, bspw. 
 - [VHF_DEMO](Demodaten/VHF_DEMO.zip): Demodaten für den 6. Projektathon der MII (in FAIRified Data)
 - [20 Beispielpatienten](Demodaten/20patients.json) als Bundle (16 Frauen, 4 Männer)
 - [100 Beispielpatienten](Demodaten/100patients.json) als Bundle (gerade noch übersichtlich)
+
+## Übung 2b: FAIR Assessment Tools
+### Werkzeuge
+- [FOOPS!](https://foops.linkeddata.es/FAIR_validator.html)
+- [F-UJI](https://www.f-uji.net/index.php?action=test)
+- [The FAIR Evaluator](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/)
+
+### Datensätze
+- [Datensatz 1: MIMIC-ED(Physionet)](https://physionet.org/content/mimic-iv-ed/2.2/)
+- [Datensatz 2: HNSCC(SEEK)](https://www.health-atlas.de/studies/33)
+- [Datensatz 3: GECCO(Simplifier)](https://simplifier.net/ForschungsnetzCovid-19)
+- [Datensatz 4: N4H MDS(Publisso)](https://repository.publisso.de/resource/frl:6450625)
+- [Datensatz 5: SARI(Zenodo)](https://zenodo.org/records/10144464)
+- [Datensatz 6: SPHN Schema(pyLODE)](https://www.biomedit.ch/rdf/sphn-ontology/sphn/2023/2)
