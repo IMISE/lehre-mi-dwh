@@ -1,6 +1,6 @@
 # Übungen
 
-Hier finden sich Dateien (Werkzeuge und Hilfedokumente) zum Modul [Data Warehouses und Data Repositories für medizinizische Forschung und Versorgung 2022](https://moodle2.uni-leipzig.de/course/view.php?id=36862/), die für die Arbeit während der Übungen benötigt werden.
+Hier finden sich Dateien (Werkzeuge und Hilfedokumente) zum Modul [Data Warehouses und Data Repositories für medizinizische Forschung und Versorgung 2024](https://moodle2.uni-leipzig.de/course/view.php?id=48412), die für die Arbeit während der Übungen benötigt werden.
 
 ## Übung 1: Kohortensuche mit i2b2 (S. Stäubert)
 
@@ -16,7 +16,7 @@ Die Installation des FHIR-Servers ist optional. Es stehen alternativ Repositorie
 - Download von DockerHub (mit Doku): https://hub.docker.com/r/fair4health/onfhir
 
 #### Data Curation Tool (DCT)
-- [Data Curation Tool V1.2.5](https://github.com/fair4health/data-curation-tool/releases) für Windows, Linux, MacOS
+- [Data Curation Tool V1.2.7](https://github.com/fair4health/data-curation-tool/releases) für Windows, Linux, MacOS
 
 #### Data Privacy Tool (DPT)
 - [Data Privacy Tool  V1.1.1](https://github.com/fair4health/data-privacy-tool/releases) für Windows, Linux, MacOS
@@ -25,14 +25,12 @@ Die Installation des FHIR-Servers ist optional. Es stehen alternativ Repositorie
 
 #### Data Curation Tool
 FHIR-Repositories zur Auswahl:
-- Student 01: http://nisa3zjndxmyk33y.myfritz.net:8201/fhir/metadata
-- Student 02: http://nisa3zjndxmyk33y.myfritz.net:8202/fhir/metadata
-- Student 03: http://nisa3zjndxmyk33y.myfritz.net:8203/fhir/metadata
-- Student 04: http://nisa3zjndxmyk33y.myfritz.net:8204/fhir/metadata
-- Student 05: http://nisa3zjndxmyk33y.myfritz.net:8205/fhir/metadata
-- Student 06: http://nisa3zjndxmyk33y.myfritz.net:8206/fhir/metadata
+- Gruppe 01: http://nisa3zjndxmyk33y.myfritz.net:8201/fhir/metadata
+- Gruppe 02: http://nisa3zjndxmyk33y.myfritz.net:8202/fhir/metadata
+- Gruppe 03: http://nisa3zjndxmyk33y.myfritz.net:8203/fhir/metadata
+- Gruppe 04: http://nisa3zjndxmyk33y.myfritz.net:8204/fhir/metadata
 
-Terminologiedienst (optional): https://health-digital-term.ari-health.eu
+Terminologiedienst (optional): in Vorbereitung
 
 Dokumentation: [Deliverable 4.1 Annex I - DataCurationTool_UserGuide.pdf](Anleitungen/D4.1-Annex-I_DataCurationTool_UserGuide.pdf)
 
